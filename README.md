@@ -1,7 +1,7 @@
 # 🪄 Automágic IVA SRI (Full PrimeFaces)
 
 Automatiza la selección y clasificación de facturas para devolución de IVA en el portal SRI (Ecuador).  
-Marca facturas, selecciona automáticamente el tipo de gasto correcto y navega por todas las páginas de resultados, optimizando procesos administrativos repetitivos.
+Marca facturas, selecciona automáticamente el tipo de gasto correcto y navega por todas las páginas de resultados, optimizando procesos administrativos repetitivos y reduciendo a un 80% el trabajo manual.
 
 ---
 
@@ -15,9 +15,17 @@ Marca facturas, selecciona automáticamente el tipo de gasto correcto y navega p
 
 ---
 
+## 📹 Funcionamiento
+
+![Funcionamiento del Script](./Funcionamiento.gif)
+
+---
+
 ## 📷 Ejemplo de uso
 
-![Ejemplo de uso](ruta/a/tu/captura1.png)  
+| ![Paso 1](./Automagic_IVA_1.png) | ![Paso 2](./Automagic_IVA_2.png) | ![Paso 3](./Automagic_IVA_3.png) |
+|:---:|:---:|:---:|
+| Selección inicial | Cargando tipo de gasto | Completado |
 
 ---
 
@@ -54,4 +62,3 @@ MIT License — Consulta el archivo LICENSE para más detalles.
 
 ### ¿Tienes dudas, sugerencias o mejoras?  
 ¡Abre un issue o contáctame!
-
