@@ -153,7 +153,7 @@ async function runAutoIva() {
 /*
 MIT License
 
-Copyright (c) 2024 Luis Steeven Vega Roldán
+Copyright (c) 2025 Luis Steeven Vega Roldán
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
