@@ -3,6 +3,8 @@
 Automatiza la selección y clasificación de facturas para devolución de IVA en el portal SRI (Ecuador).  
 Marca facturas, selecciona automáticamente el tipo de gasto correcto y navega por todas las páginas de resultados, optimizando procesos administrativos repetitivos y reduciendo a un 80% el trabajo manual.
 
+> **Nota:** Este proyecto es una herramienta independiente y no está afiliada ni soportada por el SRI. Úsalo bajo tu responsabilidad.
+
 ---
 
 ## 🚀 Características principales
