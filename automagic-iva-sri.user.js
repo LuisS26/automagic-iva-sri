@@ -23,12 +23,12 @@
 */
 
 const CATEGORY_MAP = {
-    alimentación:    ["super", "mercado", "almacen", "comisariato", "tuti", "tia", "aki", "supermaxi", "casanova", "mi"],
+    alimentación:    ["super", "mercado", "almacen", "comisariato", "tuti", "tia", "aki", "supermaxi", "casanova", "mi", "favorita"],
     comunicación:    ["telefono", "internet", "movistar", "claro", "etapa", "celulares", "cell", "alfanet"],
     cultura:         ["teatro", "cine", "museo", "importadora"],
     deporte:         ["gimnasio", "depor", "boliche"],
     educación:       ["colegio", "curso", "academia"],
-    salud:           ["farmacia", "hospital", "clinica", "salud", "FUXION"],
+    salud:           ["farmacia", "hospital", "clinica", "salud", "FUXION", "C.A.S."],
     "transporte y movilidad": ["uber", "taxi", "metro", "bus", "movilidad", "transporte", "servicios", "estacion"],
     vestimenta:      ["ropa", "zapat", "vestimenta", "calzado", "darmacio", "marathon", "moda", "store"],
     vivienda:        ["alquiler", "arriendo", "vivienda", "arrendamiento", "GYPSUM"],
